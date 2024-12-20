@@ -21,7 +21,7 @@ export function DiscordButton({ variant = 'primary', size = 'normal' }: DiscordB
 
   return (
     <a
-      href="https://discord.gg/XdCTkysj"
+      href="https://discord.gg/uTwRgRs5zp"
       target="_blank"
       rel="noopener noreferrer"
       className={`${baseStyles} ${variants[variant]} ${sizes[size]}`}
