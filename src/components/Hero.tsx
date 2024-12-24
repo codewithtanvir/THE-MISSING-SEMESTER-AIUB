@@ -7,7 +7,7 @@ export function Hero() {
     <header className="relative h-screen flex items-center justify-center text-white overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src="https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/428644924_384173124371811_3041547763176245112_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gwCeOQv4NbkQ7kNvgGqAwo7&_nc_zt=23&_nc_ht=scontent.fdac5-1.fna&_nc_gid=AdqyLhj7cFih8vgg5EjvxD_&oh=00_AYCv9H1u8T7EkqS2rgnrsdO6GFoq8AP2nw31M8Ul_hUzCw&oe=67691136"
+          src="\campus.jpg"
           alt="Campus"
           className="w-full h-full object-cover opacity-20 scale-105 transform hover:scale-110 transition-transform duration-[30s]"
         />
